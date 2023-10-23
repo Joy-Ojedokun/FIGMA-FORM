@@ -1,0 +1,82 @@
+* body {
+    background: linear-gradient(173deg, rgba(84, 35, 215, 0.24) -20.49%, rgba(31, 61, 167, 0.00) 93.7%);
+}
+
+
+.content {
+    display: flex;
+    flex-direction: row;
+}
+
+h1 {
+    text-align: center;
+    font-size: 3rem;
+    text-transform: capitalize;
+    padding-top: 20px;
+}
+
+.jay img {
+    height: 100vh;
+}
+
+.sign img {
+    height: 30px;
+}
+
+.sign {
+    display: flex;
+    height: 40px;
+    padding: 0px 28px;
+    justify-content: center;
+    align-items: center;
+    gap: 1rem;
+    border-radius: 8px;
+    border: 1px solid gray;
+    width: 100%;
+}
+
+.or {
+    padding-top: 30px;
+    padding-bottom: 30px;
+    align-items: center;
+    display: flex;
+    justify-content: center;
+
+}
+
+.type {
+    display: flex;
+    gap: 1rem;
+    flex-direction: column;
+}
+
+.user {
+    display: flex;
+    height: 40px;
+    padding: 0px 28px;
+    justify-content: center;
+    align-items: center;
+    gap: 1rem;
+    border-radius: 8px;
+    width: 85%;
+    border: 1px solid gray;
+}
+
+.joy {
+    display: flex;
+    flex-direction: column;
+}
+
+.create {
+    background-color: blue;
+    display: flex;
+    height: 40px;
+    padding: 0px 28px;
+    justify-content: center;
+    align-items: center;
+    gap: 1rem;
+    border-radius: 8px;
+    width: 100%;
+    border: 1px solid gray;
+    color: white;
+}
